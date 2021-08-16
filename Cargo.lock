@@ -923,7 +923,7 @@ checksum = "71d301d4193d031abdd79ff7e3dd721168a9572ef3fe51a1517aba235bd8f86e"
 [[package]]
 name = "sawtooth-sdk-creditcoin"
 version = "0.5.1"
-source = "git+https://github.com/nathanwhit/sawtooth-sdk-rust?branch=main#4dfd2a84485aace2f0cd754efa26ae40b3e80efc"
+source = "git+https://github.com/gluwa/Sawtooth-SDK-Rust.git?branch=CRB-42#4dfd2a84485aace2f0cd754efa26ae40b3e80efc"
 dependencies = [
  "ctrlc",
  "glob",
